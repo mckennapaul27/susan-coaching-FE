@@ -21,7 +21,7 @@ const Blog1 = () => {
                             <div className='col-lg-6 col-md-6'>
                                 <div className='single-blog-post'>
                                     <div className='post-image'>
-                                        <Link href='/single-blog-1'>
+                                        <Link href='/blog-post'>
                                             <a className='d-block'>
                                                 <img
                                                     src='/images/blog/blog1.jpg'
@@ -37,7 +37,7 @@ const Blog1 = () => {
                                             </a>
                                         </Link>
                                         <h3>
-                                            <Link href='/single-blog-1'>
+                                            <Link href='/blog-post'>
                                                 <a>
                                                     Learn How To Produce
                                                     Effective Hand Gestures In A
